@@ -1,0 +1,11 @@
+/root/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.deps.json
+/root/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.runtimeconfig.json
+/root/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.runtimeconfig.dev.json
+/root/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.dll
+/root/dotnetcore/bin/Debug/netcoreapp2.0/dotnetcore.pdb
+/root/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.csproj.CoreCompileInputs.cache
+/root/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.AssemblyInfoInputs.cache
+/root/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.AssemblyInfo.cs
+/root/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.dll
+/root/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.pdb
+/root/dotnetcore/obj/Debug/netcoreapp2.0/dotnetcore.csprojResolveAssemblyReference.cache
